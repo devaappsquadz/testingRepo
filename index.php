@@ -24,7 +24,7 @@
             </span>
             are a
             <span class="aletest">
-               <span style="font-style: initial;">Trusted</span>
+               <span style="font-style: initial;">TRUSTED</span>
                <div class="overlay">
                   <div class="text">4.7/5 BY CLUTCH.CO</div>
                   <img src="img/star.svg" style="margin-left: -160px; margin-top: -26px;">
